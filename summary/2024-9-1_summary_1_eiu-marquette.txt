@@ -1,0 +1,102 @@
+Marquette win 3-0 vs EIU | Game num. 1 of the non-conference season 2024
+
+
+
+EIU Serve vs Marquette Serve by EIU`s Rows
+serving_team     EIU  Marquette  Diff
+home_setter_row                      
+1                  7         15    -8
+2                  7         17   -10
+3                  7         14    -7
+4                 10          7     3
+5                  9         11    -2
+6                 11         10     1
+
+
+
+EIU All touches by Players
+    year  game_number              player_name team  touches  win  win_pct
+0   2024            1           Laura Paniagua  EIU       16    9    0.562
+1   2024            1            Lilli Amettis  EIU       19   10    0.526
+2   2024            1           Emma Schroeder  EIU        6    3    0.500
+3   2024            1             Ireland Hieb  EIU       17    8    0.471
+4   2024            1              Sylvia Hasz  EIU       50   23    0.460
+5   2024            1            Kaitlyn Flynn  EIU       85   39    0.459
+6   2024            1               Karli Mann  EIU       29   13    0.448
+7   2024            1         Catalina Rochaix  EIU       61   25    0.410
+8   2024            1  Destiny Skerrett Walker  EIU       57   23    0.404
+9   2024            1             Julia Stanev  EIU        6    2    0.333
+10  2024            1          Ariadna Pereles  EIU       37   11    0.297
+11  2024            1              Julia Udell  EIU        7    2    0.286
+12  2024            1          Katie Kopshever  EIU       10    2    0.200
+13  2024            1        Matilda Dahlstrom  EIU        6    0    0.000
+
+
+
+EIU Attacking by Players
+   year  game_number              player_name team  Att  K  pos  ret  neg  blk  err  win  K_pct  win_pct
+0  2024            1         Catalina Rochaix  EIU    3  1    0    0    2    0    0    3  0.333    1.000
+1  2024            1             Ireland Hieb  EIU    8  4    2    0    1    0    1    5  0.500    0.625
+2  2024            1            Kaitlyn Flynn  EIU   27  9    4    0   10    1    3   14  0.333    0.519
+3  2024            1               Karli Mann  EIU   16  4    2    0    6    2    2    8  0.250    0.500
+4  2024            1            Lilli Amettis  EIU   11  3    0    0    6    1    1    5  0.273    0.455
+5  2024            1  Destiny Skerrett Walker  EIU   25  6    3    0   11    1    4   11  0.240    0.440
+6  2024            1           Emma Schroeder  EIU    3  1    1    0    1    0    0    1  0.333    0.333
+7  2024            1             Julia Stanev  EIU    3  0    2    0    0    0    1    1  0.000    0.333
+8  2024            1          Katie Kopshever  EIU    4  1    0    0    3    0    0    1  0.250    0.250
+9  2024            1        Matilda Dahlstrom  EIU    1  0    1    0    0    0    0    0  0.000    0.000
+
+
+
+EIU Serving by Players
+   year  game_number              player_name team  Att  ace  pos  med  neg  over  err  win  ser_pos_pct  win_pct
+0  2024            1           Laura Paniagua  EIU    8    1    0    3    3     0    1    6        0.500    0.750
+1  2024            1              Sylvia Hasz  EIU   10    0    3    1    6     0    0    4        0.400    0.400
+2  2024            1            Kaitlyn Flynn  EIU    9    1    2    1    4     1    0    3        0.556    0.333
+3  2024            1              Julia Udell  EIU    5    0    0    1    4     0    0    1        0.200    0.200
+4  2024            1         Catalina Rochaix  EIU    7    1    1    0    3     0    2    1        0.286    0.143
+5  2024            1          Ariadna Pereles  EIU    2    0    0    0    1     0    1    0        0.000    0.000
+6  2024            1  Destiny Skerrett Walker  EIU    4    0    0    0    4     0    0    0        0.000    0.000
+7  2024            1             Ireland Hieb  EIU    3    0    2    0    0     0    1    0        0.667    0.000
+8  2024            1          Katie Kopshever  EIU    2    0    1    0    1     0    0    0        0.500    0.000
+9  2024            1        Matilda Dahlstrom  EIU    1    0    1    0    0     0    0    0        1.000    0.000
+
+
+
+EIU Reception by Players
+   year  game_number              player_name team  Att  perf  pos  med  neg  over  err  win  per_pos_pct  win_pct
+0  2024            1  Destiny Skerrett Walker  EIU   15     2    3    2    7     0    1    8        0.333    0.533
+1  2024            1            Kaitlyn Flynn  EIU   33     6    6    5    9     3    4   15        0.364    0.455
+2  2024            1          Ariadna Pereles  EIU   13     1    4    2    2     0    4    5        0.385    0.385
+3  2024            1          Katie Kopshever  EIU    2     0    1    0    0     1    0    0        0.500    0.000
+4  2024            1        Matilda Dahlstrom  EIU    4     0    1    0    1     0    2    0        0.250    0.000
+
+
+
+EIU Blocking by Players
+   year  game_number              player_name team  Att  perf  pos  med  neg  over  err  win  per_pos_pct  win_pct
+0  2024            1            Lilli Amettis  EIU    6     2    2    0    0     2    0    4        0.667    0.667
+1  2024            1             Ireland Hieb  EIU    5     2    0    0    0     2    1    3        0.400    0.600
+2  2024            1           Emma Schroeder  EIU    2     1    1    0    0     0    0    1        1.000    0.500
+3  2024            1            Kaitlyn Flynn  EIU    7     2    0    1    1     0    3    3        0.571    0.429
+4  2024            1               Karli Mann  EIU    7     1    3    0    0     1    2    3        0.571    0.429
+5  2024            1             Julia Stanev  EIU    3     0    2    0    0     1    0    1        0.667    0.333
+6  2024            1  Destiny Skerrett Walker  EIU    1     0    1    0    0     0    0    0        1.000    0.000
+7  2024            1           Laura Paniagua  EIU    1     0    0    0    0     0    1    0        0.000    0.000
+
+
+
+EIU Defense by Players
+    year  game_number              player_name team  Att  perf  pos  med  neg  over  err  win  per_pos_pct  win_pct
+0   2024            1           Emma Schroeder  EIU    1     0    0    0    1     0    0    1        0.000    1.000
+1   2024            1            Lilli Amettis  EIU    1     1    0    0    0     0    0    1        1.000    1.000
+2   2024            1           Laura Paniagua  EIU    3     0    3    0    0     0    0    2        1.000    0.667
+3   2024            1          Katie Kopshever  EIU    2     0    1    0    0     0    1    1        0.500    0.500
+4   2024            1  Destiny Skerrett Walker  EIU   11     5    4    0    0     0    2    4        0.818    0.364
+5   2024            1            Kaitlyn Flynn  EIU    6     1    3    0    1     0    1    2        0.667    0.333
+6   2024            1          Ariadna Pereles  EIU    8     3    2    0    2     0    1    2        0.625    0.250
+7   2024            1               Karli Mann  EIU    4     2    1    0    0     0    1    1        0.750    0.250
+8   2024            1              Sylvia Hasz  EIU    6     0    4    0    0     0    2    1        0.667    0.167
+9   2024            1         Catalina Rochaix  EIU   11     1    6    0    1     0    3    1        0.636    0.091
+10  2024            1             Ireland Hieb  EIU    1     0    0    0    1     0    0    0        0.000    0.000
+11  2024            1              Julia Udell  EIU    1     0    0    0    0     0    1    0        0.000    0.000

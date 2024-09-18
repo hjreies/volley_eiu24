@@ -1,0 +1,11 @@
+if you have problem to activate the environment on VSCode… 
+Step1 - open a new terminal
+Step2 - run this on terminal > Set-ExecutionPolicy RemoteSignedvolley\Scripts\activate 
+    if not run this on the terminal: Get-ExecutionPolicy
+Step3 - go to folders Enviroment > Scripts > activate
+Step4 - right click ACTIVATE file and select COPY RELATIVE PATH and copy: volley\Scripts\activate
+Step5 - paste the PATH from step4 on terminal
+
+video https://www.youtube.com/watch?v=3r2Vne_9Tog&t=94s 
+
+C:\Users\456402\OneDrive - American International College\Documents\Web\projects_pyweb\20240907_streamlit_test\streamlit_test
