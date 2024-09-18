@@ -27,3 +27,4 @@ streamlit-folium
 streamlit-extras
 -u pandassql
 SQLAlchemy
+openpyxl
